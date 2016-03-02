@@ -1,0 +1,5 @@
+Makefile
+Makefile.in
+byte_extract
+snort
+.libs

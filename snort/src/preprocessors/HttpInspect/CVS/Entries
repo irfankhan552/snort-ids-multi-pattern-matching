@@ -1,0 +1,12 @@
+/.cvsignore/1.2/Fri Sep  2 17:11:53 2005//TSNORT_v2_6_0-RC2
+/Makefile.am/1.1/Mon Oct 20 15:03:39 2003//TSNORT_v2_6_0-RC2
+D/anomaly_detection////
+D/client////
+D/event_output////
+D/include////
+D/mode_inspection////
+D/normalization////
+D/server////
+D/session_inspection////
+D/user_interface////
+D/utils////

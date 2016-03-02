@@ -1,0 +1,27 @@
+/.cvsignore/1.1/Wed Oct 30 22:13:41 2002//TSNORT_v2_6_0-RC2
+/Makefile.am/1.14/Fri Apr 29 18:45:41 2005//TSNORT_v2_6_0-RC2
+/spo_alert_fast.c/1.21/Fri Aug 12 20:22:14 2005//TSNORT_v2_6_0-RC2
+/spo_alert_fast.h/1.7/Mon Oct 20 15:03:34 2003//TSNORT_v2_6_0-RC2
+/spo_alert_full.c/1.19/Fri Aug 12 20:22:14 2005//TSNORT_v2_6_0-RC2
+/spo_alert_full.h/1.8/Mon Oct 20 15:03:34 2003//TSNORT_v2_6_0-RC2
+/spo_alert_prelude.c/1.8.2.2/Thu Mar  2 17:55:43 2006//TSNORT_v2_6_0-RC2
+/spo_alert_prelude.h/1.3/Mon Jul 11 13:55:18 2005//TSNORT_v2_6_0-RC2
+/spo_alert_sf_socket.c/1.5/Thu Jan 19 17:07:42 2006//TSNORT_v2_6_0-RC2
+/spo_alert_sf_socket.h/1.2/Mon Oct 20 15:03:34 2003//TSNORT_v2_6_0-RC2
+/spo_alert_syslog.c/1.39/Fri Mar 25 21:13:19 2005//TSNORT_v2_6_0-RC2
+/spo_alert_syslog.h/1.6/Mon Oct 20 15:03:35 2003//TSNORT_v2_6_0-RC2
+/spo_alert_unixsock.c/1.26/Tue Jan 13 22:54:46 2004//TSNORT_v2_6_0-RC2
+/spo_alert_unixsock.h/1.9/Mon Oct 20 15:03:35 2003//TSNORT_v2_6_0-RC2
+/spo_csv.c/1.26.2.1/Mon May  1 21:06:53 2006//TSNORT_v2_6_0-RC2
+/spo_csv.h/1.8/Mon Oct 20 15:03:35 2003//TSNORT_v2_6_0-RC2
+/spo_database.c/1.81.2.3/Mon May  1 21:06:53 2006//TSNORT_v2_6_0-RC2
+/spo_database.h/1.16/Mon Oct 20 15:03:35 2003//TSNORT_v2_6_0-RC2
+/spo_log_ascii.c/1.14/Mon Oct 20 15:03:35 2003//TSNORT_v2_6_0-RC2
+/spo_log_ascii.h/1.3/Mon Oct 20 15:03:35 2003//TSNORT_v2_6_0-RC2
+/spo_log_null.c/1.9/Mon Oct 20 15:03:35 2003//TSNORT_v2_6_0-RC2
+/spo_log_null.h/1.5/Mon Oct 20 15:03:35 2003//TSNORT_v2_6_0-RC2
+/spo_log_tcpdump.c/1.40.2.2/Mon May  1 21:06:53 2006//TSNORT_v2_6_0-RC2
+/spo_log_tcpdump.h/1.8/Mon Oct 20 15:03:35 2003//TSNORT_v2_6_0-RC2
+/spo_unified.c/1.51.2.3/Mon May  1 21:06:53 2006//TSNORT_v2_6_0-RC2
+/spo_unified.h/1.9/Mon Oct 20 15:03:36 2003//TSNORT_v2_6_0-RC2
+D

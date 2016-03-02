@@ -1,0 +1,13 @@
+/.cvsignore/1.1/Wed Oct 30 22:13:41 2002//TSNORT_v2_6_0-RC2
+/Makefile.am/1.8/Thu Dec 18 16:48:49 2003//TSNORT_v2_6_0-RC2
+/classification.config/1.11/Mon Oct 20 15:03:03 2003//TSNORT_v2_6_0-RC2
+/gen-msg.map/1.25/Thu Jan 19 16:51:56 2006//TSNORT_v2_6_0-RC2
+/generators/1.3/Thu Jan 19 16:51:56 2006//TSNORT_v2_6_0-RC2
+/open-test.conf/1.1/Tue Oct 11 14:48:42 2005//TSNORT_v2_6_0-RC2
+/reference.config/1.4/Mon Oct 20 15:03:04 2003//TSNORT_v2_6_0-RC2
+/sid/1.169/Thu Jan  5 16:35:58 2006//TSNORT_v2_6_0-RC2
+/sid-msg.map/1.188/Thu Jan  5 16:35:58 2006//TSNORT_v2_6_0-RC2
+/snort.conf/1.160.2.8/Mon May  1 15:42:50 2006//TSNORT_v2_6_0-RC2
+/threshold.conf/1.1/Fri Dec  5 19:52:52 2003//TSNORT_v2_6_0-RC2
+/unicode.map/1.1/Mon Oct 20 15:03:04 2003//TSNORT_v2_6_0-RC2
+D

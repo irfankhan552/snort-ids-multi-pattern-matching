@@ -1,0 +1,24 @@
+/.cvsignore/1.5/Mon Oct 20 16:02:50 2003//TSNORT_v2_6_0-RC2
+/.indent.pro/1.4/Mon Apr 14 16:28:18 2003//TSNORT_v2_6_0-RC2
+/COPYING/1.1.1.1/Mon Aug  7 02:41:21 2000//TSNORT_v2_6_0-RC2
+/ChangeLog/1.404.2.34/Mon May  1 21:06:52 2006//TSNORT_v2_6_0-RC2
+/LICENSE/1.1/Sat Dec 15 02:21:25 2001//TSNORT_v2_6_0-RC2
+/Makefile.am/1.73/Fri Aug 12 20:22:13 2005//TSNORT_v2_6_0-RC2
+/RELEASE.NOTES/1.8.2.3/Thu Apr 27 20:54:15 2006//TSNORT_v2_6_0-RC2
+/autojunk.sh/1.5/Thu Jan 19 16:45:01 2006//TSNORT_v2_6_0-RC2
+/config.guess/1.2/Thu Mar 14 19:33:12 2002//TSNORT_v2_6_0-RC2
+/config.sub/1.2/Thu Mar 14 19:33:12 2002//TSNORT_v2_6_0-RC2
+/configure.in/1.154.2.7/Wed May  3 19:09:37 2006//TSNORT_v2_6_0-RC2
+/install-sh/1.1.1.1/Mon Aug  7 02:41:44 2000//TSNORT_v2_6_0-RC2
+/missing/1.2/Thu Mar 14 19:33:12 2002//TSNORT_v2_6_0-RC2
+/mkinstalldirs/1.2/Mon Oct 20 15:03:01 2003//TSNORT_v2_6_0-RC2
+/snort.8/1.21.2.2/Thu Feb 23 16:32:27 2006//TSNORT_v2_6_0-RC2
+/verstuff.pl/1.9/Thu May  5 20:01:32 2005//TSNORT_v2_6_0-RC2
+D/contrib////
+D/doc////
+D/etc////
+D/m4////
+D/rpm////
+D/schemas////
+D/src////
+D/templates////

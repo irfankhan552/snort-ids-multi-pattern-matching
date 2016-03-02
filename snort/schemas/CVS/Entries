@@ -1,0 +1,8 @@
+/.cvsignore/1.2/Fri Sep  2 17:11:53 2005//TSNORT_v2_6_0-RC2
+/Makefile.am/1.2/Thu Nov 11 00:17:43 2004//TSNORT_v2_6_0-RC2
+/create_db2/1.1.2.2/Thu Apr 27 20:50:10 2006//TSNORT_v2_6_0-RC2
+/create_mssql/1.2.2.1/Wed Mar 15 18:51:37 2006//TSNORT_v2_6_0-RC2
+/create_mysql/1.4.2.1/Wed Mar 15 18:51:37 2006//TSNORT_v2_6_0-RC2
+/create_oracle.sql/1.2.2.1/Wed Mar 15 18:51:37 2006//TSNORT_v2_6_0-RC2
+/create_postgresql/1.2.2.1/Wed Mar 15 18:51:37 2006//TSNORT_v2_6_0-RC2
+D
