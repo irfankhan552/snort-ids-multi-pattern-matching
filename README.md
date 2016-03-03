@@ -26,13 +26,13 @@ For testing configure (edit) the simpletest.sh and test.sh with the appropriate 
 
 ### My code
 
-Most of my new data structure and algorithm code is is sfutil/mbom.* 
+Most of my new/important data structure and algorithm code is is sfutil/mbom.* 
 
 ### Notes from sftul/mbom2.c
 
-*Multi-Pattern Search Engine*
+**Multi-Pattern Search Engine**
 
-MultiBOM - or Multi Backwards Oracle Matching
+*MultiBOM - or Multi Backwards Oracle Matching*
 
 Version 2.0
 
@@ -56,7 +56,7 @@ R. Baeza-Yates, editor, WSP'97: Proceedings of the 4th South American Work-
 shop on String Processing, pages 149{165, Valparaiso, Chile, Nov. 1997. 
 Carleton University Press.
 
-*Version 1.0 Notes - James Kelly:*
+#####Version 1.0 Notes - James Kelly:
 
 1) Finds all occurrences of all patterns within a text.
 
@@ -83,7 +83,7 @@ Carleton University Press.
    the minimum length pattern is at least of length 3. Note that
    for those cases the Aho-Corasick algorithm would be faster.
 
-*New Version 2.0 Notes - James Kelly:*
+#####New Version 2.0 Notes - James Kelly:
 
 1) This version uses a hashtable and there is no trie or nodes. It is
    all virtual in the hashtable which of course saves a lot (tons) of
